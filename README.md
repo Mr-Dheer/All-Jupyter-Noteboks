@@ -1,4 +1,4 @@
-## This repository contains all the Jupyter Notebook which I have worker on such as :-
+## This repository contains all the Jupyter Notebook's which I have worked on such as :-
 
 - ####  **Advance House Price Prediction:-**
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenged me  to          predict the final price of each home.
